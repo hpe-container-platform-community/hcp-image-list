@@ -1,4 +1,4 @@
-# community-image-list
+# image-list
 
 TODO description
 
